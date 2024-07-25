@@ -1,10 +1,10 @@
-Half Custom Sms Tool 🙂
+# Half Custom Sms Tool 🙂
 
 Tool status: Free
 
 Only Robi & Airtel Number Working✅
 
-installation : 
+# installation : 
 
 git clone https://github.com/Rifat1haker/halfsms.git
 
@@ -14,4 +14,4 @@ python enc_halfsms.py
 
 enjoy❤️
 
-Join channel : t.me/teamcyberdemon
+# Join channel : t.me/teamcyberdemon
